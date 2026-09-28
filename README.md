@@ -1,1 +1,2 @@
-# rule
+These repository rules are for video demonstration purposes only. Considering compatibility and general applicability, they may not meet everyone's needs. Please fork this repository and modify it according to your own specific requirements.
+All content in this repository is strictly prohibited from being reproduced or shared in any form on any platform in mainland China; otherwise, you will bear all legal responsibility.
