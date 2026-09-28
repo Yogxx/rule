@@ -1,0 +1,54 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "localhost",
+        "time.windows.com",
+        "time.android.com",
+        "time.apple.com",
+        "time.cloudflare.com",
+        "time.google.com",
+        "time.nist.gov",
+        "ntp.ubuntu.com",
+        "captive.apple.com",
+        "connectivitycheck.gstatic.com",
+        "connectivitycheck.android.com",
+        "clients3.google.com",
+        "detectportal.firefox.com",
+        "nmcheck.gnome.org",
+        "network-test.debian.org",
+        "www.msftconnecttest.com",
+        "www.msftncsi.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "pool.ntp.org",
+        "msftconnecttest.com",
+        "msftncsi.com",
+        "wifi.id"
+      ]
+    },
+    {
+      "domain_regex": [
+        "^[^.]+\\.lan$",
+        "^[^.]+\\.localdomain$",
+        "^[^.]+\\.example$",
+        "^[^.]+\\.invalid$",
+        "^[^.]+\\.localhost$",
+        "^[^.]+\\.test$",
+        "^[^.]+\\.local$",
+        "^[^.]+\\.home\\.arpa$",
+        "^[^.]+\\.direct$",
+        "^PDC\\._msDCS\\.[^.]+\\.[^.]+$",
+        "^DC\\._msDCS\\.[^.]+\\.[^.]+$",
+        "^GC\\._msDCS\\.[^.]+\\.[^.]+$",
+        "^[^.]+\\.router\\.asus\\.com$",
+        "^(.+\\.)?stun\\.[^.]+\\.[^.]+$",
+        "^(.+\\.)?stun\\.[^.]+\\.[^.]+\\.[^.]+$",
+        "^(.+\\.)?stun\\.[^.]+\\.[^.]+\\.[^.]+\\.[^.]+$"
+      ]
+    }
+  ]
+}
