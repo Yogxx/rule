@@ -1,1 +1,10 @@
-
+payload:
+  # > Whatsapp
+  - DOMAIN-SUFFIX,wa.me
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DST-PORT,3478
+  - DST-PORT,4244
+  - DST-PORT,5222
+  - DST-PORT,5223
+  - DST-PORT,5288
