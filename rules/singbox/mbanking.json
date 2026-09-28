@@ -1,0 +1,48 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "allobank.com",
+        "bankbjb.co.id",
+        "bankbsi.co.id",
+        "bankjatim.co.id",
+        "bankmandiri.co.id",
+        "bankmega.com",
+        "bankmuamalat.co.id",
+        "bankneocommerce.co.id",
+        "bca.co.id",
+        "bi.go.id",
+        "blubybcadigital.id",
+        "bni.co.id",
+        "bri.co.id",
+        "btn.co.id",
+        "btpn.com",
+        "cimbniaga.co.id",
+        "dana.id",
+        "danamon.co.id",
+        "dbs.id",
+        "doku.com",
+        "gojek.com",
+        "gopay.co.id",
+        "hanabank.co.id",
+        "hsbc.co.id",
+        "jago.com",
+        "jenius.com",
+        "klikbca.com",
+        "linkaja.id",
+        "maybank.co.id",
+        "ocbc.id",
+        "ovo.id",
+        "panin.co.id",
+        "permatabank.com",
+        "permatanet.com",
+        "qris.id",
+        "sc.com",
+        "seabank.co.id",
+        "shopeepay.co.id",
+        "uob.co.id"
+      ]
+    }
+  ]
+}
